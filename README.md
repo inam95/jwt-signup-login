@@ -6,3 +6,9 @@
     - express
     - express-validator
     - bcrypt
+
+## To run:
+
+    - Clone the project
+    - Run yarn install
+    - Run yarn run start
